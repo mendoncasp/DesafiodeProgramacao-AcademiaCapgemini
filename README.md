@@ -21,7 +21,7 @@ Gradle: https://gradle.org/install/
 ```
 Depois de instalados, podemos iniciar com a execução e teste.
 
-##Inicio dos testes
+## Inicio dos testes
 Para executar o programa, o usuário deve acessar a pasta 'src', 'main', 'java', 'desafiocapgemini', conforme exemplo:
 ```
 src
